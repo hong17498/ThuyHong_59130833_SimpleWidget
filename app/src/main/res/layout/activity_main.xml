@@ -136,8 +136,4 @@
         android:layout_gravity="center"
         android:text="Xác nhận" />
 
-    <RadioGroup
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
-
 </LinearLayout>
